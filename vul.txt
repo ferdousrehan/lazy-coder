@@ -1,19 +1,4 @@
 it is vul file in prothom state.
-<<<<<<< Updated upstream
-
 Second addition.
-=======
 Second addition.
-
-
-
-
-
-
-
-
-
-
->>>>>>> Stashed changes
-
 First addition.
