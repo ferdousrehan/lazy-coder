@@ -1,0 +1,5 @@
+In fe2 branch I created this branch 'list' accidentally.
+So i deleted it.
+$ git branch -D list
+Deleted branch list (was c89952d).
+
