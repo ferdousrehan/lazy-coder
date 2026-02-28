@@ -1,3 +1,4 @@
 ded in main branch.
 added in fe2 branch.
 dhaka is a capital city.
+cox's bazar is a city.
