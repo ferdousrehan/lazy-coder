@@ -7,3 +7,8 @@ new line added for stash
 
 
 alif is a boy and he is fine.
+
+we love our land.
+now i am learning git stash.
+and i have already learnt it.
+i believe Allah will help me.
